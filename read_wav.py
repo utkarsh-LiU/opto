@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import numpy as np
 
 # function to read WAVECAR file
